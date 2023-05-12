@@ -23,3 +23,31 @@ Requirements:
 * Familiarity with data governance, quality, and security principles.
 * Excellent communication and problem-solving skills.
 * Join us on our transformative cloud migration journey, working with cutting-edge technologies. Make an impact and drive innovation in our organization.
+
+
+
+--
+Lead Data Engineer
+
+Sydney, Australia
+
+$200,000 (inc super) + Benefits
+
+Leading bank in Australia are seeking a skilled Lead Data Engineer to join their team in Sydney. As the Lead Data Engineer, you will drive the delivery of the data engineering capability, leading a team of Data Engineers to deliver high-quality and cost-effective solutions.
+
+
+Responsibilities:
+
+Lead and mentor a team of Data Engineers
+Design, develop, and support data engineering projects
+Improve data acquisition, modeling, and processes
+Drive agile delivery and automation
+Engage and manage stakeholders effectively
+Requirements:
+
+10+ years of experience in technical roles
+3+ years of experience as a Lead Data Engineer
+5+ years of program development experience in data functions
+Strong involvement in major data transformation initiatives
+Experience with data lakes, warehouses, Databricks, and data streaming
+Proficiency in AWS, SAS, SQL, Python, PowerBI, etc.
